@@ -24,6 +24,7 @@
 | 4 | **Cole o código**: Copie o código JavaScript fornecido e cole-o no console. |
 | 5 | **Pressione Enter**: Após colar o código, pressione `Enter` para executá-lo. |
 | 6 | **Observe o funcionamento**: O script começará a enviar um emote aleatório da sua barra de acesso rápido a cada 10 a 15 minutos. Mensagens como `Clicando no emote: [nomeDoEmote]` e `Próximo envio de emote em X minutos.` serão exibidas no console. |
+| 7 | **Parar**: Apenas feche a aba. |
 
 ### É seguro usar?
 | Pergunta | Resposta |
@@ -51,6 +52,8 @@
 | 4 | **Paste the code**: Copy the provided JavaScript code and paste it into the console. |
 | 5 | **Press Enter**: After pasting the code, press `Enter` to execute it. |
 | 6 | **Observe the operation**: The script will start sending a random emote from your quick emotes bar every 10 to 15 minutes. Messages like `Clicking on emote: [emoteName]` and `Next emote submission in X minutes.` will appear in the console. |
+| 7 | **Stop**: Just close the tab. |
+
 
 ### Is it safe to use?
 | Question | Answer |
