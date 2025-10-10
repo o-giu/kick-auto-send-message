@@ -21,10 +21,11 @@
 | 1 | **Abra uma live na Kick**: Acesse a transmissão ao vivo na Kick onde você deseja enviar os emotes. |
 | 2 | **Abra o DevTools**: No seu navegador, pressione `F12` ou `Ctrl + Shift + I` (Windows/Linux) ou `Cmd + Option + I` (Mac). |
 | 3 | **Vá para a aba Console**: No DevTools, selecione a aba "Console". |
-| 4 | **Cole o código**: Copie o código JavaScript fornecido e cole-o no console. |
-| 5 | **Pressione Enter**: Após colar o código, pressione `Enter` para executá-lo. |
-| 6 | **Observe o funcionamento**: O script começará a enviar um emote aleatório da sua barra de acesso rápido a cada 10 a 15 minutos. Mensagens como `Clicando no emote: [nomeDoEmote]` e `Próximo envio de emote em X minutos.` serão exibidas no console. |
-| 7 | **Parar**: Apenas feche a aba. |
+| 4 | **Use o `allow pasting`**: Se necessário, digite `'allow pasting'` no console para permitir a colagem do código. |
+| 5 | **Cole o código**: Copie o código JavaScript fornecido e cole-o no console. |
+| 6 | **Pressione Enter**: Após colar o código, pressione `Enter` para executá-lo. |
+| 7 | **Observe o funcionamento**: O script começará a enviar um emote aleatório da sua barra de acesso rápido a cada 10 a 15 minutos. Mensagens como `Clicando no emote: [nomeDoEmote]` e `Próximo envio de emote em X minutos.` serão exibidas no console. |
+| 8 | **Parar**: Apenas feche a aba. |
 
 ### É seguro usar?
 | Pergunta | Resposta |
@@ -49,10 +50,11 @@
 | 1 | **Open a Kick live stream**: Go to the live stream on Kick where you want to send emotes. |
 | 2 | **Open DevTools**: In your browser, press `F12` or `Ctrl + Shift + I` (Windows/Linux) or `Cmd + Option + I` (Mac). |
 | 3 | **Go to the Console tab**: In DevTools, select the "Console" tab. |
-| 4 | **Paste the code**: Copy the provided JavaScript code and paste it into the console. |
-| 5 | **Press Enter**: After pasting the code, press `Enter` to execute it. |
-| 6 | **Observe the operation**: The script will start sending a random emote from your quick emotes bar every 10 to 15 minutes. Messages like `Clicking on emote: [emoteName]` and `Next emote submission in X minutes.` will appear in the console. |
-| 7 | **Stop**: Just close the tab. |
+| 4 | **Use `allow pasting`**: If necessary, type `'allow pasting'` in the console to allow pasting the code. |
+| 5 | **Paste the code**: Copy the provided JavaScript code and paste it into the console. |
+| 6 | **Press Enter**: After pasting the code, press `Enter` to execute it. |
+| 7 | **Observe the operation**: The script will start sending a random emote from your quick emotes bar every 10 to 15 minutes. Messages like `Clicking on emote: [emoteName]` and `Next emote submission in X minutes.` will appear in the console. |
+| 8 | **Stop**: Just close the tab. |
 
 
 ### Is it safe to use?
